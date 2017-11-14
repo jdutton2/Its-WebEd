@@ -23,8 +23,5 @@ front-size: 17px;
 <div class="dotted">
 <p> second pargraph </p>
 </div>
-.steps {border-style:
-  dotted; border-width:
-    5px;}
-.dotted {border-style:
-  dotted;}
+.steps {border-style: dotted; border-width: 5px;}
+.dotted {border-style: dotted;}
