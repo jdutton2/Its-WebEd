@@ -13,15 +13,4 @@ padding: 14px 16px;
 text-decoration: none;
 front-size: 17px;
 }
-<body>
-<div id="intro">
-<p> intro  section </p>
-</div>
-<div class="steps">
-<p> first pargraph </p>
-</div>
-<div class="dotted">
-<p> second pargraph </p>
-</div>
-.steps {border-style: dotted; border-width: 5px;}
-.dotted {border-style: dotted;}
+
